@@ -1,4 +1,5 @@
-// time and date function, print to console + returns object, edit as needed.
+// Coded in firefox console, like all good ideas
+// Time and date function, print to console + returns object, edit as needed.
 function timeDate () {
 	const daysOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 	const d = new Date();
